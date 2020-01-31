@@ -1,0 +1,27 @@
+{
+  "blogPosts": [
+    {
+      "id": "1",
+      "title": "React",
+      "author": "Wikipedia",
+      "body": "React (also known as React.js or ReactJS) is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications. However React is only concerned with rendering data to the DOM and so creating React applications usually requires the use of additional libraries for state management, routing, and interaction with an API. Redux, React Router and axios are respective examples of such libraries.",
+      "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+      "id": "2",
+
+      "title": "מתכון לעוף",
+      "author": "Chef",
+      "body": "אופן הכנהחותכים את הפלפל האדום, הבצל, הגזר, תפוחי האדמה והעגבניות לקוביות בינוניות.בסיר רחב מחממים את שמן הזית על להבה גבוהה. מוסיפים את ירכי העוף ומשחימים מכל הצדדים (בערך כ-2 דקות מכל צד). מוציאים ושומרים בצד.מוסיפים לסיר את הירקות, למעט העגבניות ותפוחי האדמה, ומטגנים תוך כדי בחישה כ-5 דקות, עד שהם מתחילים להתרכך.מוסיפים את רסק העגבניות, הפפריקה המתוקה, פלפל הצ’יפוטלה ברוטב עגבניות, מלח ופלפל וממשיכים לטגן כ-2 דקות. בעזרת הכף מועכים מעט את הצ’יפוטלה.מוסיפים לסיר את העגבניות החתוכות, רוטב הסויה וקוביות תפוחי האדמה, ומחזירים פנימה את הכרעיים המושחמות. מוסיפים מים קרים עד גובה המרכיבים.מביאים שוב לרתיחה, מנמיכים את האש, מכסים את הסיר ומבשלים כ-90 דקות, או עד שהעוף רך. טועמים ומתקנים את התיבול לפני ההגשה.",
+      "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&w=1000&q=80"
+    },
+    {
+      "id": "3",
+
+      "title": "Test post",
+      "author": "John Smith",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a malesuada leo. Curabitur eget felis turpis. Cras interdum eget leo quis consectetur. Fusce iaculis lacus sed interdum suscipit. Maecenas ultricies lectus nulla, id faucibus ex lacinia tristique. Vestibulum ultricies mauris nec ante ullamcorper aliquet. Suspendisse efficitur purus arcu, sit amet commodo nisi scelerisque ut. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed lobortis semper nisi, ac viverra eros consequat id. Sed id dignissim nisl, vel laoreet libero. Praesent cursus molestie ligula, vitae euismod justo. Quisque aliquet molestie ante eget ultricies. Vestibulum iaculis tortor orci, in egestas erat sagittis ut. Vivamus tempor quis purus sed porta. Aliquam viverra eros diam, ac ornare nisi malesuada et.Quisque condimentum nisi id nunc tristique sodales. Praesent sed ante nibh. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer facilisis, mauris fringilla vehicula pharetra, ligula dui aliquet eros, at commodo mauris lacus vel ligula. Nunc pharetra mi quis purus malesuada tincidunt. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc tortor dolor, blandit non consequat nec, fermentum ut tellus. Integer quis dolor nibh. Cras enim eros, mollis in nibh et, porttitor mollis urna. Fusce a justo vel est aliquam imperdiet. Nullam mollis tellus a odio accumsan, convallis rutrum felis mollis. Maecenas venenatis dapibus ligula, non rutrum libero. Sed quis feugiat erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec posuere, magna at sodales porta, ipsum odio rhoncus tortor, vitae auctor nisl dui vitae metus. Vivamus venenatis tellus vitae nibh molestie, quis imperdiet tortor faucibus. Etiam laoreet ac nisi eget hendrerit. Integer et convallis libero.Aliquam viverra ipsum mi, id mattis lorem semper at. Sed id condimentum risus. Proin varius metus quis dictum dignissim. Nulla feugiat hendrerit venenatis. Sed volutpat blandit nunc, ultricies malesuada turpis ultrices a. Suspendisse ullamcorper quam quis sem mollis venenatis. Aliquam sollicitudin gravida sem, id ultricies sem congue sit amet. Pellentesque non eros est. Aenean mollis est non felis vulputate luctus. Donec justo tortor, laoreet ac pulvinar eu, posuere nec augue. Aliquam dui dui, fermentum eget vulputate non, luctus quis leo. Donec lacinia neque nisi, non luctus felis fermentum at. Curabitur dignissim eu tellus nec condimentum. Donec rhoncus ex eget augue vehicula posuere. Fusce ornare, enim eu fermentum volutpat, sapien sem pellentesque mauris, vehicula placerat lacus tellus pellentesque massa. Donec efficitur laoreet elit at eleifend. Nulla sodales dignissim condimentum. Sed faucibus orci sit amet nulla consequat aliquet. Vestibulum sit amet placerat tellus, vitae tincidunt lectus.",
+      "thumbnail": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-1.2.1&w=1000&q=80"
+    }
+  ]
+}
